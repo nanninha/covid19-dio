@@ -1,3 +1,11 @@
+npx create-react-app covid-final
+
+
+npm i styled-components
+
+npm i @material-ui/core
+npm i @material-ui/lab
+npm i --save-dev customize-cra
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
